@@ -1,5 +1,7 @@
 def main():
-    print("Hola Mundo!!!")
+
+    mensaje: str = "Hola Mundo!!!"
+    print(f"{mensaje_test}")
 
 
 if __name__ == "__main__":
